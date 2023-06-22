@@ -1,6 +1,6 @@
 {
     "name": "create-alpine-app-vite-plugin",
-    "version": "0.7.8",
+    "version": "0.0.1",
     "description": "Create Alpine App plugin for Vite. Port of Laravel Vite Plugin",
     "keywords": [
         "alpine",
