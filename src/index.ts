@@ -225,7 +225,7 @@ function resolveLaravelPlugin(pluginConfig: Required<PluginConfig>): LaravelPlug
                     res.statusCode = 404
 
                     res.end(
-                        fs.readFileSync(path.join(dirname(), 'dev-server-index.html')).toString().replace(/{{ APP_URL }}/g, appUrl)
+                        fs.readFileSync(path.join(dirname(), '/../../../resources/views/index.html')).toString().replace(/{{ APP_URL }}/g, appUrl)
                     )
                 }
 
