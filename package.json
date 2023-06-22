@@ -1,16 +1,18 @@
 {
-    "name": "laravel-vite-plugin",
+    "name": "create-alpine-app-vite-plugin",
     "version": "0.7.8",
-    "description": "Laravel plugin for Vite.",
+    "description": "Create Alpine App plugin for Vite. Port of Laravel Vite Plugin",
     "keywords": [
+        "alpine",
+        "alpinejs",
         "laravel",
         "vite",
         "vite-plugin"
     ],
-    "homepage": "https://github.com/laravel/vite-plugin",
+    "homepage": "https://github.com/thedevdojo/create-alpine-app-vite-plugin",
     "repository": {
         "type": "git",
-        "url": "https://github.com/laravel/vite-plugin"
+        "url": "https://github.com/thedevdojo/create-alpine-app-vite-plugin"
     },
     "license": "MIT",
     "author": "Laravel",
